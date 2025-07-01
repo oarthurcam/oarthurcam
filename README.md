@@ -128,5 +128,4 @@ Me chamo Arthur Câmara, tenho 17 anos e sou de São Paulo onde estou cursando o
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurcam&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
