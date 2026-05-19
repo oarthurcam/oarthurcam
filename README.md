@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Câmara, tenho 17 anos e sou de São Paulo onde estou cursando o ensino médio. Atualmente, estou estudando por conta própria e fazendo alguns cursos, principalmente sobre deep learning e machine learning . Sou apaixonada por tecnologia onde sempre procuro pensar diferente e criar novos projetos inovadores.
+Me chamo Arthur Câmara, tenho 18 anos e sou de São Paulo onde estou cursando o ensino médio. Atualmente, estou estudando por conta própria e fazendo alguns cursos, principalmente sobre deep learning e machine learning . Sou apaixonada por tecnologia onde sempre procuro pensar diferente e criar novos projetos inovadores.
 
 
 ---
